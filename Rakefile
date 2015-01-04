@@ -1,12 +1,11 @@
 require "rubygems"
 require "tmpdir"
-
 require "bundler/setup"
 require "jekyll"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+GITHUB_REPONAME = "jsanroman/jsanroman.net"
 
 
 namespace :site do
