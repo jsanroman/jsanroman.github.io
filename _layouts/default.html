@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="Javi Sanromán" />
+   <!--<link href="http://feeds.feedburner.com/tom-preston-werner" rel="alternate" title="Tom Preston-Werner" type="application/atom+xml" />-->
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+
+<section class="site-nav">
+  <header>
+    <a class="brand" href="/">
+      Javi <strong>Sanromán</strong>
+    </a>
+    <nav id="navigation">
+      <a href="/" class="home">Blog</a>
+      {% if site.inc.about_link %}<a href="/about.html">Sobre mi</a>{% endif %}
+    </nav>
+  </header>
+</section>
+
+<div class="container">
+  {{ content }}
+</div>
+
+<a href="http://quecochemecompro.com" class="ads_qm" target="_blank">
+  <img src="/images/logo-qm.png"/>
+  <span>La web para elegir coche</span>
+  <div class="text">Las mejores guías de compra, fotos, precios y opiniones para comprar coche nuevo</div>
+</a>
+
+<!-- Google Analytics -->
+<!--google analytics tracking code here-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2888296-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Google Analytics end -->
+
+</body>
+</html>
