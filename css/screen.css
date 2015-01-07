@@ -207,6 +207,9 @@ article ul {
 article ul li {
   font-weight: 400;
   margin-bottom: 0.5em;
+  color: rgb(51, 51, 51);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
 }
 
 .highlight {
@@ -286,3 +289,21 @@ code {
   -moz-opacity: 0.65;
   filter:alpha(opacity=65)
 }
+
+
+
+
+@media (max-width: 720px) {
+  .container {
+    font-size: 0.95em;
+  }
+
+  .ads_qm {
+    display: none;
+  }
+
+  time {
+    display: none;
+  }
+}
+
