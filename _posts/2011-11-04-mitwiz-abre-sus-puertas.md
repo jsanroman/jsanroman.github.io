@@ -11,7 +11,7 @@ Ya todos los usuarios registrados os habéis enterado a través del [mail que en
 <div style="text-align:center;">
 <blockquote><strong>
 <a href="http://blog.mitwiz.com/post/11366748306/fin-de-la-beta-privada-mitwiz-abre-para-todos-los" style="color:#DE4401;">&iexcl;Mitwiz está abierto de par en par!</a></strong></blockquote>
-<img src="http://jsanroman.net/wp-content/uploads/2011/11/abre_mitwiz.png" alt="" title="Mitwiz" class="aligncenter size-medium wp-image-775" />
+<img src="/images/posts/abre_mitwiz.png" alt="" title="Mitwiz" class="aligncenter size-medium wp-image-775" />
 </div>
 
 A estas alturas no os voy a contar que es mitwiz. Para esto podeis echarle un vistazo al [blog](http://blog.mitwiz.com) y al propio [mitwiz](http://www.mitwiz.com), debería quedar bastante clara la cosa, sino es así tenemos un problema no planteado hasta el momento [¡ponte en contacto por favor!](mailto:info@mitwiz.com).

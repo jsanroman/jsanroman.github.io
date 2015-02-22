@@ -21,5 +21,7 @@ Además, he vuelto a trabajar con [Ángeles](https://twitter.com/angelespariente
 ¿Y que más?, pues nada, podemos seguir aprendiendo, y como no hay mejor forma de aprender que acompañado, ya he liado a [Micho](https://twitter.com/michogar) para desarrollar mano a mano la versión android. Eso sí, sin exigencias, que es un pet-project, bueno no, un pet-project-colaborativo :D.
 
 <div class="after">
-<img src="http://jsanroman.net/wp-content/uploads/2013/05/screenshot1.jpg" alt="screenshot farmapo" style="float:left;margin-right:5px;" /><img src="http://jsanroman.net/wp-content/uploads/2013/05/screenshot2.jpg" alt="screenshot farmapo" style="float:left;margin-right:5px;" /><img src="http://jsanroman.net/wp-content/uploads/2013/05/screenshot3.jpg" alt="screenshot farmapo" style="float:left;"/>
+<img src="/images/posts/farmapo_v1_1.jpg" alt="screenshot farmapo" style="float:left;margin-right:5px;width:225px;" />
+<img src="/images/posts/farmapo_v1_2.jpg" alt="screenshot farmapo" style="float:left;margin-right:5px;width:225px;" />
+<img src="/images/posts/farmapo_v1_3.jpg" alt="screenshot farmapo" style="float:left;width:225px;"/>
 </div>

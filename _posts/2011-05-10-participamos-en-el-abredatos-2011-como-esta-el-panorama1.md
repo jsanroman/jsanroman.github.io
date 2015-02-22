@@ -7,7 +7,7 @@ excerpt: ""
 categories: [proyectos]
 ---
 
-<img style="float:right;" title="abredatos logo" src="http://www.abredatos.es/wp-content/themes/abredatos/images/layout/logo_2011.png" alt="" width="177" height="158" />
+<img style="float:right;" title="abredatos logo" src="/images/posts/abredatos.jpg" alt="" width="177" height="158" />
 
 Este fin de semana hemos participado en [abredatos 2011](http://www.abredatos.es) con [¡¿comoestaelpanorama?!](http://comoestaelpanorama.com).
 

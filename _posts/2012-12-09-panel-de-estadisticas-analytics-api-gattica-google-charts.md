@@ -70,4 +70,4 @@ drawRegionsMap = (country, countryIso) ->
 
 Y aquí parte del resultado, aunque no podais toquetear :):
 
-<img src="http://jsanroman.net/wp-content/uploads/2012/stats.png" alt="stats" />
+<img src="/images/posts/gattica_stats.png" alt="stats" />
