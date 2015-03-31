@@ -6,7 +6,7 @@ excerpt: ""
 categories: [proyectos]
 ---
 
-Era febrero de 2012 y [Micho](https://twitter.com/michogar) buscaba por twitter posibles inquilinos para una oficina que compartía con [Miguel](https://twitter.com/hozdearreba). Yo levaba 1 año trabajando en casa como freelance, en otra etapa anterior había estado casi 2 años teletrabajando desde casa también, tenía muy claro que necesitaba una oficina de apoyo. Después de varios emails, el 29 de Mayo les hacía una visita y nos conocíamos personalmente. Unos días más tarde compartíamos oficina.
+Era febrero de 2012 y [Micho](https://twitter.com/michogar) buscaba por twitter posibles inquilinos para una oficina que compartía con [Miguel](https://twitter.com/hozdearreba). Yo llevaba 1 año trabajando en casa como freelance, en otra etapa anterior había estado casi 2 años teletrabajando desde casa también, tenía muy claro que necesitaba una oficina de apoyo. Después de varios emails, el 29 de Mayo les hacía una visita y nos conocíamos personalmente. Unos días más tarde compartíamos oficina.
 
 Pero solo éramos 3, atraer a las personas que conocíamos a las afueras de Vigo era complicado, nosotros coincidiamos muy pocas veces, y uno de los principales motivos de mi búsqueda de oficina era no trabajar solo, porque no me gusta trabajar solo. 
 
